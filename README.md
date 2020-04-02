@@ -1,6 +1,6 @@
 # 10118243-Program-Pertama-GUI-Netbeans
 
-Program Pertama GUI Netbeans
-Nama  : Abdul Hanif Bonsani
-NIM   : 10118243
+<font size="12">Program Pertama GUI Netbeans</font><br>
+Nama  : Abdul Hanif Bonsani <br>
+NIM   : 10118243 <br>
 Kelas : IF-6
